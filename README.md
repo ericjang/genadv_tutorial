@@ -1,6 +1,6 @@
 # genadv_tutorial
 
-Tutorial on Generative Adversarial Models
+Tutorial on Generative Adversarial Models. See the [blog post](evjang.com/articles/genadv1).
 
 Eric Jang
 
